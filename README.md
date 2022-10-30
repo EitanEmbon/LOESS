@@ -1,6 +1,6 @@
 # LOESS
 
-* RESUMEN *
+ RESUMEN 
 
 En este trabajo, vamos a replicar una sección de [Cleveland, William S. and
 Devlin, Susan J. (1988)] tratando llegar a sus mismos resultados.
@@ -15,5 +15,6 @@ la regresión local de la regresión global desde los conocimientos adquiridos e
 Para mas información leer el informe
 
 [1] Robust Locally Weighted Regression and Smoothing Scatterplots, William S. Cleveland. (1979).
+
 [2] Locally Weighted Regression: An Approach to Regression Analysis by Local Fitting, Cleveland, William S. and
 Devlin, Susan J. (1988).
